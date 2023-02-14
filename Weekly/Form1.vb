@@ -25,6 +25,7 @@
         lblConfirmation.Visible = True
         lblInstructions.Visible = False
         btnSelectMeal.Enabled = False
+        btnExit.Enabled = True
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles btnVeggie.Click
@@ -41,5 +42,7 @@
 
     End Sub
 
+    Private Sub picPrime_Click(sender As Object, e As EventArgs) Handles picPrime.Click
 
+    End Sub
 End Class

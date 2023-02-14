@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dante\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj": {}
+    "C:\\Users\\Dante Fladger\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Dante\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj": {
+    "C:\\Users\\Dante Fladger\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dante\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj",
+        "projectUniqueName": "C:\\Users\\Dante Fladger\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj",
         "projectName": "Weekly",
-        "projectPath": "C:\\Users\\Dante\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj",
-        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dante\\OneDrive\\Graphic User Interface Dev\\Weekly\\obj\\",
+        "projectPath": "C:\\Users\\Dante Fladger\\OneDrive\\Graphic User Interface Dev\\Weekly\\Weekly.vbproj",
+        "packagesPath": "C:\\Users\\Dante Fladger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dante Fladger\\OneDrive\\Graphic User Interface Dev\\Weekly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dante Fladger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

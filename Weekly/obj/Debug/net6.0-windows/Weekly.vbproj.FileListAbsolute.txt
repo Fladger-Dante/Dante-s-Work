@@ -16,3 +16,21 @@ C:\Users\Dante\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windo
 C:\Users\Dante\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\ref\Weekly.dll
 C:\Users\Dante\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.frmBurger.resources
 C:\Users\Dante\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.Resources.resources
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\bin\Debug\net6.0-windows\Weekly.exe
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\bin\Debug\net6.0-windows\Weekly.deps.json
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\bin\Debug\net6.0-windows\Weekly.runtimeconfig.json
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\bin\Debug\net6.0-windows\Weekly.dll
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\bin\Debug\net6.0-windows\Weekly.pdb
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.vbproj.AssemblyReference.cache
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.frmBurger.resources
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.Resources.resources
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.vbproj.GenerateResource.cache
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.AssemblyInfoInputs.cache
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.AssemblyInfo.vb
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.vbproj.CoreCompileInputs.cache
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.dll
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\refint\Weekly.dll
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.pdb
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\Weekly.genruntimeconfig.cache
+C:\Users\Dante Fladger\OneDrive\Graphic User Interface Dev\Weekly\obj\Debug\net6.0-windows\ref\Weekly.dll

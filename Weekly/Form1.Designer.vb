@@ -40,9 +40,10 @@ Partial Class frmBurger
         '
         Me.lblHeading.AutoSize = True
         Me.lblHeading.Font = New System.Drawing.Font("Tahoma", 16.125!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.lblHeading.Location = New System.Drawing.Point(171, 1)
+        Me.lblHeading.ForeColor = System.Drawing.Color.Red
+        Me.lblHeading.Location = New System.Drawing.Point(262, 9)
         Me.lblHeading.Name = "lblHeading"
-        Me.lblHeading.Size = New System.Drawing.Size(485, 52)
+        Me.lblHeading.Size = New System.Drawing.Size(248, 27)
         Me.lblHeading.TabIndex = 0
         Me.lblHeading.Text = "Farm Burger Specials"
         '
@@ -69,70 +70,76 @@ Partial Class frmBurger
         '
         'btnPrime
         '
-        Me.btnPrime.Font = New System.Drawing.Font("Tahoma", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btnPrime.BackColor = System.Drawing.Color.Wheat
+        Me.btnPrime.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btnPrime.Location = New System.Drawing.Point(106, 298)
         Me.btnPrime.Name = "btnPrime"
         Me.btnPrime.Size = New System.Drawing.Size(128, 32)
         Me.btnPrime.TabIndex = 3
         Me.btnPrime.Text = "Prime Beef"
-        Me.btnPrime.UseVisualStyleBackColor = True
+        Me.btnPrime.UseVisualStyleBackColor = False
         '
         'btnSelectMeal
         '
+        Me.btnSelectMeal.BackColor = System.Drawing.Color.Wheat
         Me.btnSelectMeal.Enabled = False
-        Me.btnSelectMeal.Font = New System.Drawing.Font("Tahoma", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btnSelectMeal.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btnSelectMeal.Location = New System.Drawing.Point(317, 298)
         Me.btnSelectMeal.Name = "btnSelectMeal"
         Me.btnSelectMeal.Size = New System.Drawing.Size(128, 32)
         Me.btnSelectMeal.TabIndex = 4
         Me.btnSelectMeal.Text = "Select Meal"
-        Me.btnSelectMeal.UseVisualStyleBackColor = True
+        Me.btnSelectMeal.UseVisualStyleBackColor = False
         '
         'btnVeggie
         '
-        Me.btnVeggie.Font = New System.Drawing.Font("Tahoma", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btnVeggie.BackColor = System.Drawing.Color.Wheat
+        Me.btnVeggie.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btnVeggie.Location = New System.Drawing.Point(528, 298)
         Me.btnVeggie.Name = "btnVeggie"
         Me.btnVeggie.Size = New System.Drawing.Size(128, 32)
         Me.btnVeggie.TabIndex = 5
         Me.btnVeggie.Text = "Veggie"
-        Me.btnVeggie.UseVisualStyleBackColor = True
+        Me.btnVeggie.UseVisualStyleBackColor = False
         '
         'lblInstructions
         '
         Me.lblInstructions.AutoSize = True
-        Me.lblInstructions.Font = New System.Drawing.Font("Tahoma", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.lblInstructions.Location = New System.Drawing.Point(171, 354)
+        Me.lblInstructions.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.lblInstructions.Location = New System.Drawing.Point(261, 351)
         Me.lblInstructions.Name = "lblInstructions"
-        Me.lblInstructions.Size = New System.Drawing.Size(467, 23)
+        Me.lblInstructions.Size = New System.Drawing.Size(308, 14)
         Me.lblInstructions.TabIndex = 6
         Me.lblInstructions.Text = "Choose a burger and then click the Select Meal button"
         '
         'lblConfirmation
         '
         Me.lblConfirmation.AutoSize = True
-        Me.lblConfirmation.Font = New System.Drawing.Font("Tahoma", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.lblConfirmation.Location = New System.Drawing.Point(262, 375)
+        Me.lblConfirmation.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.lblConfirmation.Location = New System.Drawing.Point(317, 374)
         Me.lblConfirmation.Name = "lblConfirmation"
-        Me.lblConfirmation.Size = New System.Drawing.Size(224, 23)
+        Me.lblConfirmation.Size = New System.Drawing.Size(144, 14)
         Me.lblConfirmation.TabIndex = 7
         Me.lblConfirmation.Text = "Enjoy your burger special"
         Me.lblConfirmation.Visible = False
         '
         'btnExit
         '
-        Me.btnExit.Font = New System.Drawing.Font("Tahoma", 7.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btnExit.BackColor = System.Drawing.Color.Wheat
+        Me.btnExit.Enabled = False
+        Me.btnExit.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btnExit.Location = New System.Drawing.Point(317, 413)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(128, 32)
         Me.btnExit.TabIndex = 8
         Me.btnExit.Text = "Exit Window"
-        Me.btnExit.UseVisualStyleBackColor = True
+        Me.btnExit.UseVisualStyleBackColor = False
         '
         'frmBurger
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(13.0!, 29.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 14.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.FloralWhite
         Me.ClientSize = New System.Drawing.Size(774, 470)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.lblConfirmation)
